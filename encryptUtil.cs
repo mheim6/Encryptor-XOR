@@ -1,9 +1,7 @@
 //Monica Heim
 //Anchorage,Alaska
-//monicaheim39@gmail.com
-//(907)312-6999
 //August 23,2020
-//Apple Coding Assignment Bluetooth in C#
+
 
 
 using System;
