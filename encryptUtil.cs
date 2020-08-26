@@ -13,7 +13,7 @@ using System.Runtime.InteropServices.ComTypes;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CodingAssignmentAppleBluetooth
+namespace Encryptor
 {
 	class Program
 	{
