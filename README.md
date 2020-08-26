@@ -1,4 +1,4 @@
-# encryptUtil
+# Encryption XOR
 
 MONICA HEIM 
 -----------------------------------
